@@ -1,7 +1,7 @@
-[![Version Status](https://img.shields.io/npm/v/@abraham/remotedata.svg?style=flat&label=version&colorB=4bc524)](https://npmjs.com/package/@abraham/remotedata)
-[![Build Status](https://github.com/abraham/remotedata/workflows/Index/badge.svg)](https://github.com/abraham/remotedata/actions)
-[![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/@abraham/remotedata.svg?style=flat&colorB=4bc524)](https://bundlephobia.com/result?p=@abraham/remotedata)
-[![Coverage Status](https://coveralls.io/repos/github/abraham/remotedata/badge.svg?branch=master)](https://coveralls.io/github/abraham/remotedata?branch=master)
+[![Version Status](https://img.shields.io/npm/v/@mario-kart-felix/remotedata.svg?style=flat&label=version&colorB=4bc524)](https://npmjs.com/package/@abraham/remotedata)
+[![Build Status](https://github.com/Mario-Kart-Felix/remotedata/workflows/Index/badge.svg)](https://github.com/Mario-Kart-Felix/remotedata/actions)
+[![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/@Mario-kart-felix/remotedata.svg?style=flat&colorB=4bc524)](https://bundlephobia.com/result?p=@mario-kart-felix/remotedata)
+[![Coverage Status](https://coveralls.io/repos/github/Mario-Kart-Felix/remotedata/badge.svg?branch=master)](https://coveralls.io/github/Mario-Kart-Felix/remotedata?branch=master)
 
 # RemoteData
 
@@ -10,7 +10,7 @@ Lightweight TypeScript RemoteData implementation
 ## Install
 
 ```sh
-npm install @abraham/remotedata
+npm install @mario-kart-felix/remotedata
 ```
 
 ## Usage
